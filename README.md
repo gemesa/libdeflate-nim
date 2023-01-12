@@ -1,5 +1,5 @@
 # libdeflate-nim
-libdeflate-nim is a very thin Nim wrapper for [libdeflate](https://github.com/ebiggers/libdeflate)
+libdeflate-nim is a very thin Nim wrapper for [libdeflate](https://github.com/ebiggers/libdeflate).
 
 ## Deployment
 
