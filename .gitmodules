@@ -1,3 +1,4 @@
 [submodule "libdeflate"]
 	path = libdeflate
 	url = git@github.com:ebiggers/libdeflate.git
+	branch = tags/v1.16
