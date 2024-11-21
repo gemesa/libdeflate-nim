@@ -6,8 +6,8 @@ libdeflate-nim is a very thin Nim wrapper for [libdeflate](https://github.com/eb
 ### Prerequisites
 
 The following tools are necessary for building:
-- `nim` (1.6.10)
-- `nimble` (0.13.1) (only if you want to install the package)
+- `nim` (2.2.0)
+- `nimble` (0.16.1) (only if you want to install the package)
 - C compiler (`gcc`, `clang`, etc.)
 
 ### How to build
